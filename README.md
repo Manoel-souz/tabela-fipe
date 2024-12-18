@@ -1,4 +1,4 @@
-# 🚗 **Tabela FIPE Plugin para WordPress e WooCommerce**
+# 🚗 **Tabela FIPE 1.1.0 Plugin para WordPress e WooCommerce**
 
 Este é um **plugin exclusivo** que permite listar **marcas, modelos e anos de carros** diretamente no WordPress com WooCommerce! Com um simples **shortcode**, você pode exibir o valor FIPE de veículos cadastrados na loja.
 
