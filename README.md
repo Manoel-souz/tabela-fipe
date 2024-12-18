@@ -19,7 +19,8 @@ Este é um **plugin exclusivo** que permite listar **marcas, modelos e anos de c
 2. Plugin **WooCommerce** ativo na sua loja virtual.
 
 ### **Passo a Passo**
-1. Baixe o arquivo do plugin [**aqui**](#) *(adicione o link de download aqui)*.
+1. Baixe o arquivo do plugin [tabela-fipe.zip](https://github.com/user-attachments/files/18173028/tabela-fipe.zip)
+.
 2. Acesse o painel do WordPress:
    - Vá para **Plugins > Adicionar Novo**.
    - Clique em **Enviar Plugin**.
@@ -40,7 +41,7 @@ Após ativar o plugin, uma nova aba chamada **"Tabela FIPE"** aparecerá no pain
 ### 2. **Cadastro de Veículos**
 Quando estiver cadastrando ou editando um produto no WooCommerce, você verá uma nova aba chamada **"Tabela FIPE"**.
 
-1. Preencha as informações corretamente (marca, modelo, ano, etc.).
+1. Preencha as informações corretamente (marca, modelo e ano).
 2. Salve o produto.
 3. Uma mensagem de sucesso será exibida.
 
