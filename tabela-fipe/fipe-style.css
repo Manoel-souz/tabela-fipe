@@ -1,0 +1,77 @@
+/* Estilo para a aba Tabela FIPE */
+#fipe_product_data {
+    padding: 20px;
+    background: #f9f9f9;
+    border: 1px solid #e5e5e5;
+    border-radius: 5px;
+}
+
+#fipe_product_data h4 {
+    font-size: 18px;
+    color: #333;
+}
+
+#fipe_product_data label {
+    display: block;
+    font-weight: bold;
+    margin-bottom: 5px;
+    color: #555;
+}
+
+#fipe_product_data select {
+    width: 100%;
+    padding: 8px;
+    margin-bottom: 15px;
+    border: 1px solid #ccc;
+    border-radius: 4px;
+    font-size: 14px;
+}
+
+#fipe_product_data select:disabled {
+    background: #e9ecef;
+    cursor: not-allowed;
+}
+
+#fipe_result {
+    margin-top: 20px;
+    padding: 15px;
+    background: #fff;
+    border: 1px solid #ddd;
+    border-radius: 5px;
+    color: #333;
+}
+
+#fipe_result pre {
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+    font-size: 14px;
+    overflow: auto;
+}
+
+p.line {
+    margin: 0!important;
+    padding: 0 0 0 5px!important;
+    font-weight: 400;
+}
+
+h5.fipe_line {
+    margin: 0!important;
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+}
+
+#fipe_output p, #fipe_output h4 {
+    margin: 10px 0 10px 0;
+    padding: 0;
+}
+
+.options-list {
+    margin: 0;
+}
+
+.options_group {
+    display: flex;
+    flex-direction: column;
+}
